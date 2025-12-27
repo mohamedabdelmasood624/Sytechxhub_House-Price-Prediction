@@ -1,0 +1,399 @@
+feature,importance
+OverallQual_x_GrLivArea,83
+TotalSF,83
+Neighborhood,61
+OverallCond,57
+BsmtFinSF1,56
+OverallQual_div_GrLivArea,54
+TotalArea,53
+GarageYrBlt,50
+RoomDensity,49
+LotArea,49
+GarageArea,49
+TotalPorch,45
+HouseAge,41
+BsmtUnfSF,39
+TotalBsmtSF,36
+1stFlrSF,35
+OpenPorchSF,34
+YearRemodAdd,31
+LotFrontage,30
+RemodAge,27
+TotalBath,27
+GrLivArea,24
+YearBuilt,24
+GarageCars_x_GarageArea,22
+OverallQual,21
+Fireplaces,19
+Condition1_Norm,18
+SaleCondition_Abnorml,17
+BsmtExposure_No,16
+MasVnrArea,16
+MoSold,15
+EnclosedPorch,15
+WoodDeckSF,15
+CentralAir_N,15
+2ndFlrSF,12
+YrSold,11
+BsmtExposure_Gd,10
+LotConfig_CulDSac,9
+Exterior1st_BrkFace,9
+MSZoning_RM,8
+GarageCars,8
+Functional_Typ,8
+SaleCondition_Normal,7
+ScreenPorch,7
+MSSubClass,7
+KitchenQual_Gd,7
+MSZoning_RL,7
+BsmtCond_Fa,6
+Exterior2nd,6
+BsmtQual_Ex,6
+KitchenAbvGr,6
+SaleType_New,6
+BedroomAbvGr,5
+HeatingQC_TA,5
+LotShape_Reg,5
+KitchenQual_Ex,5
+KitchenQual_TA,5
+PavedDrive_N,5
+PavedDrive_Y,5
+ExterCond_TA,4
+BsmtQual_Gd,4
+FireplaceQu_Gd,4
+GarageType_Attchd,4
+HeatingQC_Ex,4
+LotConfig_Inside,4
+Condition1_Artery,4
+MasVnrType_BrkFace,4
+MasVnrType_Stone,4
+LandContour_Low,4
+BsmtFinType1_ALQ,4
+LotConfig_FR2,3
+ExterCond_Gd,3
+SaleCondition_Family,3
+GarageFinish_Unf,3
+SaleType_WD,3
+TotRmsAbvGrd,3
+BsmtFullBath,3
+BsmtFinType1_GLQ,3
+GarageType_Detchd,3
+HalfBath,2
+GarageCond_TA,2
+GarageQual_TA,2
+Functional_Min2,2
+SaleType_COD,2
+OverallQualScore,2
+Foundation_PConc,2
+BsmtFinType1_LwQ,2
+BsmtFinType1_Rec,2
+BsmtFinType2_BLQ,2
+Electrical_SBrkr,2
+Exterior1st_Plywood,2
+LandContour_Bnk,2
+LotShape_IR1,2
+HouseStyle_1.5Fin,2
+HouseStyle_1Story,2
+HouseStyle_2Story,2
+RoofStyle_Gable,2
+BsmtFinSF2,2
+ExterQual_Gd,1
+Exterior1st_MetalSd,1
+HouseStyle_SLvl,1
+IsRemodelled,1
+LandContour_Lvl,1
+Exterior1st_HdBoard,1
+Foundation_BrkTil,1
+LotShape_IR2,1
+ExterQual_TA,1
+ExterCond_Fa,1
+Electrical_FuseA,1
+FireplaceQu_TA,1
+FireplaceQu_Po,1
+GarageFinish_RFn,1
+Fence_MnPrv,1
+ Heating_Missing,0
+ HeatingQC_Missing,0
+ CentralAir_Missing,0
+ Electrical_Missing,0
+ Utilities_Missing,0
+ GrLivArea_log,0
+ Foundation_Missing,0
+ BsmtExposure_Missing,0
+ LowQualFinSF_log,0
+ 2ndFlrSF_log,0
+ 1stFlrSF_log,0
+ LotArea_log,0
+ MSSubClass_log,0
+MiscVal_log,0
+PoolArea_log,0
+ScreenPorch_log,0
+3SsnPorch_log,0
+EnclosedPorch_log,0
+OpenPorchSF_log,0
+ Functional_Missing,0
+ KitchenQual_Missing,0
+ BsmtHalfBath_Missing,0
+ BsmtFullBath_Missing,0
+Alley_Grvl,0
+Street_Pave,0
+Street_Grvl,0
+MSZoning_RH,0
+MSZoning_FV,0
+MSZoning_C (all),0
+ MiscVal_log,0
+ PoolArea_log,0
+ ScreenPorch_log,0
+ 3SsnPorch_log,0
+ EnclosedPorch_log,0
+ OpenPorchSF_log,0
+ WoodDeckSF_log,0
+ Fireplaces_log,0
+ TotRmsAbvGrd_log,0
+ KitchenAbvGr_log,0
+Condition1_PosN,0
+Condition1_PosA,0
+Condition1_Feedr,0
+LandSlope_Sev,0
+LandSlope_Mod,0
+LandSlope_Gtl,0
+LotConfig_FR3,0
+LotConfig_Corner,0
+Utilities_NoSeWa,0
+Utilities_AllPub,0
+LandContour_HLS,0
+LotShape_IR3,0
+Alley_Pave,0
+Alley_Missing,0
+BldgType_Twnhs,0
+BldgType_Duplex,0
+BldgType_2fmCon,0
+BldgType_1Fam,0
+Condition2_RRNn,0
+Condition2_RRAn,0
+Condition2_RRAe,0
+Condition2_PosN,0
+Condition2_PosA,0
+Condition2_Norm,0
+Condition2_Feedr,0
+Condition2_Artery,0
+Condition1_RRNn,0
+Condition1_RRNe,0
+Condition1_RRAn,0
+Condition1_RRAe,0
+RoofMatl_Roll,0
+RoofMatl_Metal,0
+RoofMatl_Membran,0
+RoofMatl_CompShg,0
+RoofMatl_ClyTile,0
+RoofStyle_Shed,0
+RoofStyle_Mansard,0
+RoofStyle_Hip,0
+RoofStyle_Gambrel,0
+RoofStyle_Flat,0
+HouseStyle_SFoyer,0
+HouseStyle_2.5Unf,0
+HouseStyle_2.5Fin,0
+HouseStyle_1.5Unf,0
+BldgType_TwnhsE,0
+LowQualFinSF_log,0
+2ndFlrSF_log,0
+1stFlrSF_log,0
+TotalBsmtSF_log,0
+BsmtUnfSF_log,0
+BsmtFinSF2_log,0
+BsmtFinSF1_log,0
+MasVnrArea_log,0
+LotArea_log,0
+LotFrontage_log,0
+MSSubClass_log,0
+Exterior1st_AsphShn,0
+Exterior1st_AsbShng,0
+RoofMatl_WdShngl,0
+RoofMatl_WdShake,0
+RoofMatl_Tar&Grv,0
+MasVnrType_BrkCmn,0
+Exterior1st_WdShing,0
+Exterior1st_Wd Sdng,0
+Exterior1st_VinylSd,0
+Exterior1st_Stucco,0
+Exterior1st_Stone,0
+Exterior1st_ImStucc,0
+Exterior1st_CemntBd,0
+Exterior1st_CBlock,0
+Exterior1st_BrkComm,0
+WoodDeckSF_log,0
+KitchenAbvGr_log,0
+BsmtHalfBath_log,0
+GrLivArea_log,0
+HasFireplace,0
+HasPool,0
+Foundation_Wood,0
+Foundation_Stone,0
+Foundation_Slab,0
+Foundation_CBlock,0
+ExterCond_Po,0
+ExterCond_Ex,0
+ExterQual_Fa,0
+ExterQual_Ex,0
+MasVnrType_Missing,0
+BsmtFinType1_Unf,0
+BsmtFinType1_Missing,0
+BsmtFinType1_BLQ,0
+BsmtExposure_Mn,0
+BsmtExposure_Missing,0
+BsmtExposure_Av,0
+BsmtCond_TA,0
+BsmtCond_Po,0
+BsmtCond_Missing,0
+BsmtCond_Gd,0
+BsmtQual_TA,0
+BsmtQual_Missing,0
+BsmtQual_Fa,0
+Has2ndFloor,0
+HasBasement,0
+HasGarage,0
+CentralAir_Y,0
+HeatingQC_Po,0
+HeatingQC_Gd,0
+HeatingQC_Fa,0
+Heating_Wall,0
+Heating_OthW,0
+Heating_Grav,0
+Heating_GasW,0
+Heating_GasA,0
+Heating_Floor,0
+BsmtFinType2_Unf,0
+BsmtFinType2_Rec,0
+BsmtFinType2_Missing,0
+BsmtFinType2_LwQ,0
+BsmtFinType2_GLQ,0
+BsmtFinType2_ALQ,0
+ 3SsnPorch,0
+ EnclosedPorch,0
+ OpenPorchSF,0
+ WoodDeckSF,0
+ Fireplaces,0
+ TotRmsAbvGrd,0
+ KitchenAbvGr,0
+ BedroomAbvGr,0
+ HalfBath,0
+ FullBath,0
+ GrLivArea,0
+Electrical_Mix,0
+Electrical_Missing,0
+Electrical_FuseP,0
+Electrical_FuseF,0
+ BsmtFinSF1_Missing,0
+ BsmtFinType2_Missing,0
+ BsmtFinSF2_Missing,0
+FireplaceQu_Missing,0
+FireplaceQu_Fa,0
+FireplaceQu_Ex,0
+Functional_Sev,0
+Functional_Mod,0
+Functional_Min1,0
+Functional_Maj2,0
+Functional_Maj1,0
+KitchenQual_Fa,0
+ YrSold,0
+ MoSold,0
+ MiscVal,0
+ PoolArea,0
+ ScreenPorch,0
+GarageCond_Gd,0
+GarageCond_Fa,0
+GarageCond_Ex,0
+GarageQual_Po,0
+GarageQual_Missing,0
+GarageQual_Gd,0
+GarageQual_Fa,0
+GarageQual_Ex,0
+ BsmtUnfSF_Missing,0
+GarageFinish_Missing,0
+GarageFinish_Fin,0
+GarageType_Missing,0
+GarageType_CarPort,0
+GarageType_BuiltIn,0
+GarageType_Basment,0
+GarageType_2Types,0
+MiscFeature_Shed,0
+MiscFeature_Othr,0
+MiscFeature_Missing,0
+MiscFeature_Gar2,0
+Fence_MnWw,0
+ TotalBsmtSF_Missing,0
+Fence_Missing,0
+Fence_GdWo,0
+Fence_GdPrv,0
+PoolQC_Missing,0
+PoolQC_Gd,0
+PoolQC_Fa,0
+PoolQC_Ex,0
+PavedDrive_P,0
+GarageCond_Po,0
+GarageCond_Missing,0
+ YearRemodAdd,0
+ YearBuilt,0
+ OverallCond,0
+ OverallQual,0
+ LotArea,0
+ MSSubClass,0
+Id  ,0
+MiscVal,0
+PoolArea,0
+3SsnPorch,0
+SaleType_ConLw,0
+SaleType_ConLI,0
+SaleType_ConLD,0
+SaleType_Con,0
+SaleType_CWD,0
+MiscFeature_TenC,0
+ LandContour_Missing,0
+ LotShape_Missing,0
+ Alley_Missing,0
+ Street_Missing,0
+ LotFrontage_Missing,0
+ MSZoning_Missing,0
+SaleCondition_Partial,0
+SaleCondition_Alloca,0
+SaleCondition_AdjLand,0
+SaleType_Oth,0
+FullBath,0
+BsmtHalfBath,0
+LowQualFinSF,0
+ LowQualFinSF,0
+ 2ndFlrSF,0
+ 1stFlrSF,0
+ ExterCond_Missing,0
+ ExterQual_Missing,0
+ MasVnrArea_Missing,0
+ MasVnrType_Missing,0
+ Exterior2nd_Missing,0
+ Exterior1st_Missing,0
+ RoofMatl_Missing,0
+ RoofStyle_Missing,0
+ HouseStyle_Missing,0
+ BldgType_Missing,0
+ Condition2_Missing,0
+ Condition1_Missing,0
+ Neighborhood_Missing,0
+ LandSlope_Missing,0
+ LotConfig_Missing,0
+ BsmtCond_Missing,0
+ SaleCondition_Missing,0
+ SaleType_Missing,0
+ MiscFeature_Missing,0
+ Fence_Missing,0
+ PoolQC_Missing,0
+ PavedDrive_Missing,0
+ GarageCond_Missing,0
+ GarageQual_Missing,0
+ GarageArea_Missing,0
+ GarageCars_Missing,0
+ GarageFinish_Missing,0
+ GarageYrBlt_Missing,0
+ GarageType_Missing,0
+ FireplaceQu_Missing,0
+ BsmtQual_Missing,0
+ BsmtFinType1_Missing,0
