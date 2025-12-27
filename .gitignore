@@ -1,6 +1,13 @@
+# Virtual environments
 venv/
-__pycache__/
-*.pkl
+new_venv/
 
-data/train.csv
-data/test.csv
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
